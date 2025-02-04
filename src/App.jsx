@@ -8,7 +8,6 @@ function App() {
       <h1>*angle aura sounds*</h1>
       <img src = {golden}/>
       <h2>You have been blessed with swag.</h2>
-      
     </>
   )
 }
